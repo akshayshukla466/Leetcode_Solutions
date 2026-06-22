@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
