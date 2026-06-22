@@ -19,16 +19,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
