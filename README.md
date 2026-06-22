@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Dynamic Programming
