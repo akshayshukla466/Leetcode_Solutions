@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/Java/Medium/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0344-reverse-string](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
