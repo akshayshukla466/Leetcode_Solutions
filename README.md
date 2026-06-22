@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
