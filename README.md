@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Search
