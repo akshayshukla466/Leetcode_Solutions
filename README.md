@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
